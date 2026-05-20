@@ -18,15 +18,33 @@ const songs = [
     },
     {
         image: "./album-art2.jpg",
-        name: "Jingle Bells",
-        artist: "James Lord Pierpont",
-        audio: "audio/jingle-bells.mp3"
+        name: "Cherry Pop",
+        artist: "DECO27",
+        audio: "audio/cherry-pop.mp3"
     },
     {
         image: "./album-art3.jpg",
-        name: "Joy To The World",
-        artist: "Isaac Watts",
-        audio: "audio/joy-to-the-world.mp3",
+        name: "Looping The Rooms",
+        artist: "Rusino",
+        audio: "audio/looping-the-rooms.mp3",
+    },
+    {
+        image: "./album-art4.jpg",
+        name: "Monitoring (BF Remix)",
+        artist: "DECO27",
+        audio: "audio/monitoring-best-friend.mp3",
+    },
+    {
+        image: "./album-art5.jpg",
+        name: "Dreamflux Reef",
+        artist: "HoyoMix",
+        audio: "audio/dreamflux-reef.mp3",
+    },
+    {
+        image: "./album-art6.jpg",
+        name: "Retry Now",
+        artist: "Nakiso",
+        audio: "audio/retrynow.mp3",
     },
 ];
 
