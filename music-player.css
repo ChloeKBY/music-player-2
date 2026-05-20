@@ -1,6 +1,16 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
+@font-face {
+  font-family: 'PineWords';
+  src: url('font/PineWords.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
+
+body {
+    color: rgb(147, 183, 194);
+    font-family: 'PineWords', sans-serif;
+    background-color: rgb(240, 254, 255);
+}
+
 
 #music-player {
     display: flex;
@@ -10,9 +20,10 @@ body {
 }
 
 #song-image {
-    height: 300px;
+    height: 400px;
     width: 400px;
     border-radius: 10px;
+    border: 4px solid rgb(147, 183, 194);
 }
 
 #song-name {
@@ -28,7 +39,7 @@ body {
 
 #music-buttons i {
     padding: 10px;
-    /* color: red; */
+    color: rgb(147, 183, 194)
 }
 
 #slider-song {
@@ -38,8 +49,8 @@ body {
     appearance: none;
     width: 300px;
     height: 5px;
-    background: solid rgb(214, 236, 238);
-    border: 1px solid rgb(147, 183, 194);
+    background: solid rgb(230, 253, 255);
+    border: 2px solid rgb(147, 183, 194);
     border-radius: 10px;
     margin-top: 20px;
 }
@@ -48,8 +59,9 @@ body {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    background: rgb(225, 247, 250);
-    width: 15px;
-    height: 15px;
+    background: rgb(255, 255, 255);
+    border: 2px solid rgb(147, 183, 194);
+    width: 20px;
+    height: 20px;
     border-radius: 50%;
 }
