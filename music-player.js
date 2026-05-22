@@ -157,7 +157,7 @@ const songs = [
         //Dream Sweet in Sea Major
         image: "album_art/album-art21.jpg",
         name: "Dream Sweet in Sea Major",
-        artist: "NA",
+        artist: "Miracle Musical",
         audio: "audio/dream-sweet-in-sea-major.mp3",
     },
     {
