@@ -146,6 +146,34 @@ const songs = [
         artist: "NA",
         audio: "audio/kuru-kuru.mp3",
     },
+    {
+        //Life is reason by Daniel Pemberton
+        image: "album_art/album-art20.jpg",
+        name: "Life is Reason",
+        artist: "Daniel Pemberton",
+        audio: "audio/life-is-reason.mp3",
+    },
+    {
+        //Dream Sweet in Sea Major
+        image: "album_art/album-art21.jpg",
+        name: "Dream Sweet in Sea Major",
+        artist: "NA",
+        audio: "audio/dream-sweet-in-sea-major.mp3",
+    },
+    {
+        //A Distortion's Trial
+        image: "album_art/album-art22.jpg",
+        name: "A Crow's Trial",
+        artist: "Vane Lily",
+        audio: "audio/a-distortion-trial.mp3",
+    },
+    {
+        //The Path to the Door
+        image: "album_art/album-art23.jpg",
+        name: "The Path to the Door",
+        artist: "DREDGE",
+        audio: "audio/path-to-the-door.mp3",
+    },
 
 ];
 
